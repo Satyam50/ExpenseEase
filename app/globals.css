@@ -10,55 +10,55 @@
     --card-foreground: 0 0% 3.9%;
     --popover: 0 0% 100%;
     --popover-foreground: 0 0% 3.9%;
-    --primary: 0 0% 70%; /* Light Red */
+    --primary: 0 100% 60%; /* Light Red */
     --primary-foreground: 0 0% 98%;
-    --secondary: 330 85% 60%; /* Hot Pink */
+    --secondary: 0 100% 60%; /* Bright Red */
     --secondary-foreground: 0 0% 9%;
     --muted: 0 0% 96.1%;
     --muted-foreground: 0 0% 45.1%;
-    --accent: 45 100% 51%;
+    --accent: 0 100% 50%; /* Strong Red */
     --accent-foreground: 0 0% 9%;
-    --destructive: 0 84.2% 60.2%; /* Bright Red */
+    --destructive: 0 100% 50%; /* Bright Red */
     --destructive-foreground: 0 0% 98%;
     --border: 0 0% 89.8%;
     --input: 0 0% 89.8%;
-    --ring: 0 0% 3.9%;
+    --ring: 0 100% 70%; /* Light Red */
     --radius: 0.5rem;
-    --chart-1: 0 76% 61%; /* Light Red */
-    --chart-2: 10 58% 39%; /* Light Red */
-    --chart-3: 15 37% 24%; /* Light Red */
-    --chart-4: 25 74% 66%; /* Light Red */
-    --chart-5: 30 87% 67%; /* Light Red */
-    --highlight: 50 100% 50%; /* Bright Yellow */
+    --chart-1: 0 100% 60%; /* Light Red */
+    --chart-2: 0 100% 50%; /* Strong Red */
+    --chart-3: 0 100% 40%; /* Darker Red */
+    --chart-4: 0 100% 70%; /* Light Red */
+    --chart-5: 0 100% 50%; /* Strong Red */
+    --highlight: 0 100% 50%; /* Bright Red */
     --highlight-foreground: 0 0% 100%;
   }
 
   .dark {
-    --background: 0 0% 10%; /* Dark Red */
+    --background: 0 0% 20%; /* Dark Red */
     --foreground: 0 0% 98%;
-    --card: 0 0% 10%; /* Dark Red */
+    --card: 0 0% 20%; /* Dark Red */
     --card-foreground: 0 0% 98%;
-    --popover: 0 0% 10%; /* Dark Red */
+    --popover: 0 0% 20%; /* Dark Red */
     --popover-foreground: 0 0% 98%;
-    --primary: 0 0% 30%; /* Dark Red */
+    --primary: 0 100% 40%; /* Darker Red */
     --primary-foreground: 0 0% 9%;
-    --secondary: 330 85% 60%; /* Hot Pink */
+    --secondary: 0 100% 50%; /* Strong Red */
     --secondary-foreground: 0 0% 98%;
-    --muted: 0 0% 28%; /* Dark Muted Red */
+    --muted: 0 100% 30%; /* Darker Red */
     --muted-foreground: 0 0% 63.9%;
-    --accent: 45 100% 51%; /* Orange */
+    --accent: 0 100% 50%; /* Strong Red */
     --accent-foreground: 0 0% 98%;
-    --destructive: 0 62.8% 30.6%; /* Dark Red */
+    --destructive: 0 100% 40%; /* Darker Red */
     --destructive-foreground: 0 0% 98%;
-    --border: 0 0% 28%; /* Dark Border */
-    --input: 0 0% 28%; /* Dark Input */
-    --ring: 0 0% 83.1%;
-    --chart-1: 0 70% 50%; /* Dark Red */
-    --chart-2: 10 60% 45%; /* Dark Red */
-    --chart-3: 15 80% 55%; /* Dark Red */
-    --chart-4: 25 65% 60%; /* Dark Red */
-    --chart-5: 30 75% 55%; /* Dark Red */
-    --highlight: 50 100% 50%; /* Bright Yellow */
+    --border: 0 0% 30%; /* Dark Red */
+    --input: 0 0% 30%; /* Dark Red */
+    --ring: 0 100% 50%; /* Light Red */
+    --chart-1: 0 100% 50%; /* Strong Red */
+    --chart-2: 0 100% 40%; /* Darker Red */
+    --chart-3: 0 100% 30%; /* Darker Red */
+    --chart-4: 0 100% 40%; /* Darker Red */
+    --chart-5: 0 100% 30%; /* Darker Red */
+    --highlight: 0 100% 50%; /* Bright Red */
     --highlight-foreground: 0 0% 100%;
   }
 }

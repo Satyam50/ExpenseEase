@@ -1,3 +1,7 @@
+# Here is the live link
+## https://expense-ease-lemon.vercel.app/
+
+
 # ExpenseEase
 
 ExpenseEase is a web application designed to help you manage your finances by creating different types of budgets and tracking your expenses. The app is built using React.js and Next.js, with data stored in Neon Database and user authentication handled by Clerk.
@@ -25,29 +29,12 @@ ExpenseEase is a web application designed to help you manage your finances by cr
 - Neon Database account.
 - Clerk account for authentication.
 
-### Installation
+![1](https://github.com/user-attachments/assets/697dcdde-ce59-4db7-b6cb-9fc20ea55d83)
+  
+![2](https://github.com/user-attachments/assets/8e9116fc-985e-4575-9ee8-84dbbfc3e9b9)
 
-1. Clone the repository:
+![3](https://github.com/user-attachments/assets/f2633043-0ba5-4763-9c48-b2ae62396f3e)
 
-   ```bash
-   git clone https://github.com/your-username/ExpenseEase.git
-   cd ExpenseEase
-Install the dependencies:
+![4](https://github.com/user-attachments/assets/eb1ef3f5-3d3c-40dd-bad4-66c18ec14adc)
 
-bash
-Copy code
-npm install
-Set up environment variables:
 
-Create a .env.local file in the root of your project and add your Neon Database and Clerk credentials:
-
-env
-Copy code
-NEXT_PUBLIC_NEON_DATABASE_URL=your_neon_database_url
-NEXT_PUBLIC_CLERK_FRONTEND_API=your_clerk_frontend_api
-Run the development server:
-
-bash
-Copy code
-npm run dev
-Open http://localhost:3000 to view the app in your browser.
